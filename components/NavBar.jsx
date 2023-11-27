@@ -92,7 +92,7 @@ export default function NavBar() {
                     user !== null ? (
                         <>
                             <div className='px-2 h-full flex items-center justify-center'>
-                                <p className='uppercase font-semibold tracking-widest text-lg'>JOB-PORTAL</p>
+                                <p className='uppercase font-semibold tracking-widest text-lg'>Carrer-Connect</p>
                             </div>
                             <div className='px-2 h-full hidden items-center justify-center lg:flex'>
                                 <Link href={'/'} className="px-3 mx-4 text-base font-medium transition-all duration-700 hover:translate-y-2 uppercase" >Home</Link>
@@ -106,7 +106,7 @@ export default function NavBar() {
                     ) : (
                         <>
                             <div className='px-2 h-full flex items-center justify-center'>
-                                <Link href={'/'} className='uppercase font-semibold tracking-widest text-lg'>JOB-PORTAL</Link>
+                                <Link href={'/'} className='uppercase font-semibold tracking-widest text-lg'>Carrer-Connect</Link>
                             </div>
                         </>
                     )

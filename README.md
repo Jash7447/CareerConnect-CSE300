@@ -25,13 +25,13 @@ CareerConnect is a job portal platform designed to connect job seekers with empl
 
 These instructions will help you get a copy of CareerConnect up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+## Prerequisites
 
 To run CareerConnect, you'll need the following:
 
 - Node.js: Make sure you have Node.js installed. You can download it [here](https://nodejs.org/).
 
-### Tech
+## Tech
 
 - Nextjs
 - Tailwind css
@@ -52,7 +52,7 @@ To run this project, you will need to add the following environment variables to
 - `NEXT_PUBLIC_API_BASE_URL` =  Base URL for localhost  => http://localhost:3000
 
 
-### To get project
+## To get project
 
 1. Clone the repository:
 

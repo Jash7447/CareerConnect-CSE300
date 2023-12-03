@@ -24,12 +24,13 @@ To run CareerConnect, you'll need the following:
 
 ### Tech
 
-Nextjs
-tailwind css
-Redux toolkit
-joi validation
-mongoDB
-SWR hooks for fetching API
+- Nextjs
+- Tailwind css
+- Redux toolkit
+- Joi Validation
+- MongoDB
+- SWR hooks for fetching API
+
 
 ### Installation
 

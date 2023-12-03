@@ -1,4 +1,4 @@
-# CareerConnect-CSE300# CareerConnect-CSE300
+# CareerConnect-CSE300
 
 ## Project Overview
 

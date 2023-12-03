@@ -60,7 +60,6 @@ To run this project, you will need to add the following environment variables to
    git clone https://github.com/kathan07/CareerConnect-CSE300.git
 
 
-
 ## Installation
 
 Install my-project with npm
